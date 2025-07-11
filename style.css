@@ -404,11 +404,12 @@ html {
   }
 
   .logo {
-    font-size: 20px;
+    font-size: 30px;
   }
 
   /* .hamburger starts here  */
   .hamburger {
+    font-size: 30px;
     display: inline-block;
   }
   .menu {
