@@ -404,12 +404,12 @@ html {
   }
 
   .logo {
-    font-size: 30px;
+    font-size: 25px;
   }
 
   /* .hamburger starts here  */
   .hamburger {
-    font-size: 30px;
+    font-size: 25px;
     display: inline-block;
   }
   .menu {
@@ -439,6 +439,7 @@ html {
   .intro h3 {
     font-size: 30px;
   }
+  
   .social {
     margin-top: 30px;
     justify-content: left;
@@ -500,7 +501,7 @@ html {
   }
 
   .my-image img {
-    width: 200px;
+    width: 250 px;
     margin: 0;
   }
 
