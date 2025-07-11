@@ -2,7 +2,7 @@
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 }
 body {
   margin: 0;
@@ -454,6 +454,7 @@ html {
   }
 
   .about-me {
+    text-align: left;
     padding: 60px 20px;
   }
   .about-me h3 {
@@ -473,7 +474,6 @@ html {
   .services {
     padding: 60px 20px;
   }
-
   .services1 {
     padding: 20px;
   }
