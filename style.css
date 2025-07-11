@@ -246,6 +246,7 @@ html {
   color: white;
   padding: 80px 100px;
   width: 85%;
+  gap: 100px;
   margin: auto;
   border-radius: 5px;
 }
@@ -280,14 +281,14 @@ html {
   background: transparent;
   border: 1px solid white;
   outline: none;
-  width: 185px;
+  width: 100px;
   padding: 10px;
   color: white;
   border-radius: 5px;
-  height: 100x;
-  max-width: 185px;
+  height: 100px;
+  max-width: 100px;
   max-height: 100px;
-  min-width: 185px;
+  min-width: 100%;
   min-height: 100px;
 }
 .contact-img img {
