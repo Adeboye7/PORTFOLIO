@@ -416,14 +416,19 @@ html {
     display: none;
     flex-direction: column;
     position: absolute;
-    top: 50px;
-    left: 0;
-    background-color: rgba(255, 255, 255, 0.566);
-    width: 100%;
+    top: 60px;
+    right: 0px;
+    background: linear-gradient(to left, #4f46e5, #9333ea);
     gap: 10px;
     padding: 20px 20px;
-    text-align: right;
-    padding-left: 20px;
+    text-align: center;
+    border-radius: 1px;
+  }
+  .menu a:hover {
+    color: white;
+    transition: 0.5s;
+    border-radius:1px;
+    background: #4f46e5;
   }
 
   .hero-section {
@@ -501,7 +506,7 @@ html {
   }
 
   .my-image img {
-    width: 250 px;
+    width: 250px;
     margin: 0;
   }
 
