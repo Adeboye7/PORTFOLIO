@@ -2,7 +2,7 @@
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 body {
   margin: 0;
@@ -417,7 +417,7 @@ html {
     background-color: rgba(255, 255, 255, 0.566);
     width: 100%;
     gap: 10px;
-    padding: 20px 20px ;
+    padding: 20px 20px;
     text-align: right;
     padding-left: 20px;
   }
@@ -484,6 +484,10 @@ html {
     width: 100%;
   }
 
+  .contact-img {
+    display: none;
+  }
+
   .footer {
     padding: 30px 20px;
   }
@@ -520,4 +524,3 @@ html {
     padding: 10px 25px;
   }
 }
-
