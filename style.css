@@ -429,16 +429,19 @@ html {
   .hero-section {
     padding: 60px 20px;
   }
+  .intro {
+    text-align: left;
+  }
 
   .intro-me {
     margin-bottom: 50px;
   }
   .intro h3 {
-    font-size: 40px;
+    font-size: 30px;
   }
   .social {
     margin-top: 30px;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
   }
   .get {
