@@ -2,7 +2,7 @@
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 body {
   margin: 0;
@@ -19,9 +19,9 @@ html {
 .nav {
   top: 0;
   position: fixed;
-  box-shadow: 0px 0px 1px black;
+  box-shadow: 0px 1px 20px black;
   color: black;
-  background: white;  
+  background: rgba(255, 255, 255, 0.95);  
   padding: 15px 100px;
   display: flex;
   width: 100%;
@@ -299,7 +299,7 @@ html {
   background: white;
   padding: 10px;
   color: black;
-  border: 2px solid black;
+  /* border: 2px solid black; */
   border-radius: 5px;
   font-weight: bolder;
   cursor: pointer;
@@ -419,16 +419,15 @@ html {
     position: absolute;
     top: 50px;
     right: 0px;
-    background: whitesmoke;
+    background:white;
     width: 100%;
     gap: 10px;
-    padding: 20px;
+    padding:10px;
     text-align: center;
   }
   .menu a:hover {
-    color: black;
-    transition: 0.5s;
-    border: 2px solid #4f46e5;
+    /* transition: 0.5s; */
+    /* border: 2px solid #4f46e5; */
   }
 
   .hero-section {
